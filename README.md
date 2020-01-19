@@ -1,7 +1,7 @@
 ## Neural Network Acceleration Study
-This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` and `PIM`. Our materials are open to this github and youtube.
+This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` , `NPU` and `PIM`. Our materials are open to this github and youtube.
 
-#### CPU and GPU
+#### CPU/GPU and NPU
 - Desinging optimized BLAS for CPU or GPU
 - Optimal primitive selection on heterogeneous system architecture (HSA) device
 - CUDA/OpenCL kernel design
@@ -39,8 +39,6 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	1. Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory, ASPLOS, 2017.
 	2. Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach, MICRO, 2018.
 	3. TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning, MICRO, 2019.
-
-
 
 
 ## Presentation with Video
