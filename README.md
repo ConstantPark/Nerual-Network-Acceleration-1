@@ -15,6 +15,11 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - Non-HBM based design
 
 ## Paper List
+### CPU and GPU
+Cambricon: An instruction set architecture for neural networks
+### ASIC and FPGA
+
+### PIM
 You can Presentor: Constant Park (Sang-Soo Park)  
 https://drive.google.com/file/d/16jmFcZiNN1H1LCF2mnprmTuP8le9viSc/view?usp=sharing
 
