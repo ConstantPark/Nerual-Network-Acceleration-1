@@ -5,19 +5,17 @@ The goal of this study is to understand the implmentation of nerual networks on 
 The topoic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` and `PIM (NDP)`.
 
 #### CPU and GPU
-- Including AVX/NEON, OpenMP/MKL/BLAS, and OpenCL/CUDA
-- DNN acceleartion API (cuDNN, cuBLAS, TensorCore)
-- Xilinx's SDSoC/SDAccel 
+- Desinging optimized BLAS for CPU or GPU
+- Optimal primitive selection on HSA device
+- CUDA/OpenCL kernel design
 
 #### ASIC and FPGA
-- Frontend Design (Design Compuiler, PrimeTime, VSC, NC-Verilong)
-- RTL Language (Verilog, System Verilog, Chisel)
+- Low-power inference acceleration using HLS or RTL design
+- High computing performance training accelerator
 
 #### PIM (NDP)
-- DNN Primitive Design running on CPU/GPU/NPU
-- PCIe based LVCSR Acceleration HW/SW Design
-- `Heterogenous accleration` with NPU and GPU
-- `Edge and Server based neural processing unit (NPU)` design 
+- DIMM and HMC based neural acceleration system
+- Non-HBM based design
 
 ### Paper
 1. DANNA: Dataflow-Aware Neural Network Accelerator 
