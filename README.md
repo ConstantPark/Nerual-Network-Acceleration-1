@@ -3,7 +3,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 #### CPU and GPU
 - Desinging optimized BLAS for CPU or GPU
-- Optimal primitive selection on HSA device
+- Optimal primitive selection on heterogeneous system architecture (HSA) device
 - CUDA/OpenCL kernel design
 
 #### ASIC and FPGA
