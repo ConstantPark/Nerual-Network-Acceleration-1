@@ -1,0 +1,22 @@
+| 번호 | 논문명                                                                                                                           | 학회/저널    | 분야                       | 출판일  | 발표일 |
+|----|-------------------------------------------------------------------------------------------------------------------------------|----------|--------------------------|------|-----|
+| 1  | Cambricon: An instruction set architecture for neural networks                                                                | ISCA     | HW Accelerator (ASIC)    | 2016 |     |
+| 2  | AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks                                           | Arxiv    | GPU Acceleration         | 2019 |     |
+| 3  | Caffeine: Towards Uniformed Representation and Acceleration for Deep Convolutional Neural Networks                            | ICCAD    | HLS Acceleration (FPGA)  | 2016 |     |
+| 4  | µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization        | EuroSys  | Heteroenous Acceleration | 2019 |     |
+| 5  | Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory                                                     | ASPLOS   | PIM                      | 2017 |     |
+| 6  | EIE: efficient inference engine on compressed deep neural network                                                             | ISCA     | HW Accelerator (ASIC)    | 2016 |     |
+| 7  | Partitioning Compute Units in CNN Acceleration for Statistical Memory Traffic Shaping                                         | IEEE CAL | XeonPhi Acceleration     | 2017 |     |
+| 8  | ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA                                                             | FPGA     | HLS Acceleration (FPGA)  | 2017 |     |
+| 9  | MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference | PACT     | Heteroenous Acceleration | 2019 |     |
+| 10 | Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach                                   | MICRO    | PIM                      | 2018 |     |
+| 11 | In-Datacenter Performance Analysis of a Tensor Processing Unit                                                                | ISCA     | HW Accelerator (ASIC)    | 2017 |     |
+| 12 | Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming                                                | CGO      | Primitive Selection      | 2019 |     |
+| 13 | Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management                     | DAC      | HLS Acceleration (FPGA)  | 2019 |     |
+| 14 | Neural Network Inference on Mobile SoCs                                                                                       | Arxiv    | Heteroenous Acceleration | 2019 |     |
+| 15 | Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems                              | Date     | Primitive Selection      | 2019 |     |
+| 16 | Performance analysis of CNN frameworks for GPUs                                                                               | ISPASS   | GPU Acceleration         | 2018 |     |
+| 17 | Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks                                               | FPGA     | HLS Acceleration (FPGA)  | 2015 |     |
+| 18 | TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning             | MICRO    | NDP                      | 2019 |     |
+| 19 | Cambricon-S: Addressing Irregularity in Sparse Neural Networks through A Cooperative Software/Hardware Approach               | MICRO    | HW Accelerator (ASIC)    | 2018 |     |
+| 20 | FA3C: FPGA-Accelerated Deep Reinforcement Learning                                                                            | ASPLOS   | HLS Acceleration (FPGA)  | 2019 |     |
