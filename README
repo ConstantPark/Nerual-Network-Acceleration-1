@@ -1,3 +1,13 @@
+
+<p class="message">
+  Hello! My name is Sang-Soo Park. I’m a Ph.D candidate student in Hanyang University.    
+  This page includes my research area, project, and community info.
+</p>
+
+### Research Area
+Machine learning acceleration using `CPU`,`GPU`, and `FPGA`, `ASIC`.
+
+
 ## Neural Network Acceleration Study 
 ------------------------------------------------------------------------------
 This is a repository of Neural Network Acceleration Study.
