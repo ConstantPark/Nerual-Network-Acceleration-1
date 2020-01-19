@@ -1,8 +1,4 @@
----
-layout: page
-title: About Me
-sidebar_link: true
----
+
 
 <p class="message">
   Hello! My name is Sang-Soo Park. I’m a Ph.D candidate student in Hanyang University.    
