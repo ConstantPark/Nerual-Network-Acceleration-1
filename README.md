@@ -14,7 +14,6 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - DIMM and HMC based neural acceleration system
 - Non-HBM based design
 
-## Contributors:
-
-**Main Contributor**: Constant Park (https://constantpark.github.io/).
+## Contributors
+**Main Contributor**: Constant Park (https://constantpark.github.io/).  
 **Presenter**: Constanr Park, ~
