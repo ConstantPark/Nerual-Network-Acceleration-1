@@ -19,24 +19,3 @@ Presentor: 박상수 (Constant Kim)
 PPT: TBD
 
 
-## Schedule (Presentation List):
-
-| Week         | Subject                                                                                            | Presenter       |
-|--------------|----------------------------------------------------------------------------------------------------|-----------------|
-| Week 1  |1. Introduction <br /> 2. Introduction. |  1.Jeonghoon Kim<br />2.Stella Yang|
-| Week 2  |1. Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.<br /> 2. Mobilenets: Efficient convolutional neural networks for mobile vision applications. |1.Jeonghoon Kim<br />2.Sanggun Kim|
-| Week 3  |1.Finn: A framework for fast, scalable binarized neural network inference.<br />2. MobileNetV2: Inverted Residuals and Linear Bottlenecks| 1.Hyunwoo Kim<br />2.Seojin Kim  |
-| Week 4  |1.XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.<br />2. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size. |1.Hwigeon Oh<br />2.Martin Hwang |
-| Week 5  |1.BNN+: Improved binary network training.<br />2. Squeezenext: Hardware-aware neural network design. |1.Youngbin Kim<br /> 2.Sang-soo Park|
-| Week 6  |1.Loss-aware binarization of deep networks.<br />	2. Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.|1.Jaeyoung Lee<br />2.	Sanggun Kim|
-| Week 7  |1. Loss-aware weight quantization of deep networks.<br />2. Scalpel: Customizing dnn pruning to the underlying hardware parallelism.|1.Youngbin Kim<br />2.Sang-soo Park|
-| Week 8  |1.Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.<br />2.ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.|1.Yongwoo Kim<br />2.Jaeyoung Lee|
-| Week 9  |1.Lq-nets: Learned quantization for highly accurate and compact deep neural networks.<br />2. Model compression via distillation and quantization.|1.Hyungjun Kim<br />2. Seokjoong Kim|
-| Week 10  |1. Alternating Multi-bit Quantization for Recurrent Neural Networks.<br />	2. Densely Connected Convolutional Networks.|1.Eunhui Kim<br />2.이경준|
-| Week 11  |1.TBD<br />2. All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification.|1.Sejung Kwon<br />2.Stella Yang|
-| Week 12  |1.Analysis of Quantized Models.<br />2.EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.	|1.Bochan Kim<br />2.	Martin Hwang|    
-| Week 13  |1.Learning to quantize deep networks by optimizing quantization intervals with task loss.<br />2. Amc: Automl for model compression and acceleration on mobile devices.|1.이인웅<br />2.Seokjoong Kim|
-
-
-## References
-https://github.com/ai-robotics-kr/nnq_cnd_study/blob/master/AwesomePapers.md  
