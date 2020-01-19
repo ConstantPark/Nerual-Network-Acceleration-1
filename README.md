@@ -1,5 +1,7 @@
+## Neural Network Acceleration Study
 Hello! This is a repository of the study "neural network acceleration".  
-The goal of this study is to understand the implmentation of nerual networks on various acceleration.
+The goal of this study is to understand the implmentation of nerual networks on various acceleration.  
+Our materials are open to this gitHub and youtube.
 
 ###  Interest Area
 The topoic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` and `PIM (NDP)`.
