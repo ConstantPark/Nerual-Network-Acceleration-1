@@ -16,13 +16,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 ## Paper List
 ### CPU and GPU
-1. AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks, arxiv, 2019.
-2. µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys, 2019.
-3. Partitioning Compute Units in CNN Acceleration for Statistical Memory Traffic Shaping, IEEE CAL, 2017.
-4. MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference, PACT, 2019.
-5. Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming, ACM CGO 2019.
-6. Neural Network Inference on Mobile SoCs, Arxiv, 2019.
-7. Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems, DATE, 2019.
+	1. AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks, \*arxiv\*, 2019.
+	2. µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, \*EuroSys\*, 2019.
+	3. Partitioning Compute Units in CNN Acceleration for Statistical Memory Traffic Shaping, \*IEEE CAL\*, 2017.
+	4. MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference, \*PACT\*, 2019.
+	5. Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming, \*ACM CGO\*, 2019.
+	6. Neural Network Inference on Mobile SoCs, \*Arxiv\*, 2019.
+	7. Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems, \*DATE\*, 2019.
   
 Cambricon: An instruction set architecture for neural networks
 ### ASIC and FPGA
