@@ -1,8 +1,7 @@
 
 
 <p class="message">
-  Hello! My name is Sang-Soo Park. I’m a Ph.D candidate student in Hanyang University.    
-  This page includes my research area, project, and community info.
+  Hello! This is a repository of the study "neural network acceleration"
 </p>
 
 ### Research Area
