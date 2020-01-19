@@ -4,16 +4,16 @@ The goal of this study is to understand the implmentation of nerual networks on 
 ### Paper  Area
 The topoic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` and `PIM (NDP)`.
 
-#### Parallel Programming (CPU, GPU, FPGA)
+#### CPU and GPU
 - Including AVX/NEON, OpenMP/MKL/BLAS, and OpenCL/CUDA
 - DNN acceleartion API (cuDNN, cuBLAS, TensorCore)
 - Xilinx's SDSoC/SDAccel 
 
-#### Logic Design
+#### ASIC and FPGA
 - Frontend Design (Design Compuiler, PrimeTime, VSC, NC-Verilong)
 - RTL Language (Verilog, System Verilog, Chisel)
 
-#### DNN Acceletion HW/SW Design
+#### PIM (NDP)
 - DNN Primitive Design running on CPU/GPU/NPU
 - PCIe based LVCSR Acceleration HW/SW Design
 - `Heterogenous accleration` with NPU and GPU
