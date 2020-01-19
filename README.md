@@ -1,5 +1,5 @@
 ## Neural Network Acceleration Study
- Hello! This is a repository of the study "neural network acceleration". The goal of this study is to understand the design of nerual networks on various acceleration. The topic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` and `PIM`. Our materials are open to this github and youtube.
+ Hello! This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` and `PIM`. Our materials are open to this github and youtube.
 
 #### CPU and GPU
 - Desinging optimized BLAS for CPU or GPU
