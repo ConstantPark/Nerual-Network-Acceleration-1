@@ -1,7 +1,7 @@
 Hello! This is a repository of the study "neural network acceleration".  
 The goal of this study is to understand the implmentation of nerual networks on various acceleration.
 
-### Paper  Area
+###  Interest Area
 The topoic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` and `PIM (NDP)`.
 
 #### CPU and GPU
