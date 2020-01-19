@@ -17,7 +17,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ## Presentation with Video
 ### Week1: Introduction of Neural network acceleration
 **Title: Going to fast acceleration on your devicet**  
-Presentor: 박상수 (Constant Park)  
+Presentor: Constant Park (Sang-Soo Park)  
 PPT: 
 Video: 
 Date:
