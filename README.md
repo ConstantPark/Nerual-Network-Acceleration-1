@@ -1,11 +1,5 @@
-
-
-<p class="message">
-Hello! This is a repository of the study "neural network acceleration".
-   
-   
+Hello! This is a repository of the study "neural network acceleration".  
 The goal of this study is to understand the implmentation of nerual networks on various acceleration.
-</p>
 
 ### Research Area
 Machine learning acceleration using `CPU`,`GPU`, and `FPGA`, `ASIC`.
