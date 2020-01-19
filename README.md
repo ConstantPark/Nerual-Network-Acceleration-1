@@ -34,8 +34,12 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	6. Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management, DAC, 2019.
 	7. Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks, FPGA, 2015.
 	8. FA3C: FPGA-Accelerated Deep Reinforcement Learning, ASPLOS, 2019.
+	9. Cambricon-S: Addressing Irregularity in Sparse Neural Networks through A Cooperative Software/Hardware Approach, MICRO, 2018.
 ### PIM
-You can Presentor: Constant Park (Sang-Soo Park)  
+	1. Tetris: Scalable and Efficient Neural Network Acceleration with 3D Memory, ASPLOS, 2017.
+	2. Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach, MICRO, 2018.
+	3. TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning, MICRO, 2019.
+
 
 
 
