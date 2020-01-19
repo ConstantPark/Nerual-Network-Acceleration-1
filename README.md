@@ -14,6 +14,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - DIMM and HMC based neural acceleration system
 - Non-HBM based design
 
+## Presentation with Video
+### Week1: Introduction of NNQ&CND
+**Title: A Piece of Weight**  
+Presentor: 김정훈 (Jeonghoon Kim)  
+PPT: https://drive.google.com/open?id=1RQAiIFX7wOUMiZXPCIZbXb_6DtLlV38e  
+Video: https://youtu.be/pohMFz-uQJ0  
+
 ## Contributors
 **Main Contributor**: Constant Park (https://constantpark.github.io/).  
 **Presenter**: Constanr Park, ~
