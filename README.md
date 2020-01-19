@@ -15,11 +15,12 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - Non-HBM based design
 
 ## Presentation with Video
-### Week1: Introduction of NNQ&CND
-**Title: A Piece of Weight**  
-Presentor: 김정훈 (Jeonghoon Kim)  
-PPT: https://drive.google.com/open?id=1RQAiIFX7wOUMiZXPCIZbXb_6DtLlV38e  
-Video: https://youtu.be/pohMFz-uQJ0  
+### Week1: Introduction of Neural network acceleration
+**Title: Going to fast acceleration on your devicet**  
+Presentor: 박상수 (Constant Park)  
+PPT: 
+Video: 
+Date:
 
 ## Contributors
 **Main Contributor**: Constant Park (https://constantpark.github.io/).  
