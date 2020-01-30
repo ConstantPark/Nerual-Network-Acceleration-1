@@ -51,9 +51,9 @@ This is a repository of the study "neural network acceleration". The goal of thi
   
 
 ### Week2: HW accelerator (ASIC) and GPU acceleration  (February 09, 2020)
-**Cambricon: An instruction set architecture for neural networks**  
+**Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
 
-	Presentor: 김용우 (guruzoa@gmail.com)
+	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
 	PPT:   
 	Video:   
 
@@ -65,12 +65,12 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 
 ### Week3: HW accelerator (FPGA) and CPU/GPU acceleration (February 16, 2020)
-**Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
+**Cambricon: An instruction set architecture for neural networks**  
 
-	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
+	Presentor: 김용우 (guruzoa@gmail.com)
 	PPT:   
 	Video:   
-
+	
 **Scalpel: Customizing DNN pruning to the underlying hardware parallelism**  
 
 	Presentor: DownyK (dhhwang89@gmail.com)  
