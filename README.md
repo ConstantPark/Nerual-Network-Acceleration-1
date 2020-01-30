@@ -44,24 +44,24 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week1: Introduction of Neural network acceleration (February 2, 2020)
 **Title: Introduction of this study and selection of optimal primitive**  
 
-	Presentor: Constant Park (Sang-Soo Park, http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
+	Presentor: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT:   
 	Video:   
 
   
 
-### Week2: HW accelerator (ASIC) and GPU acceleration
+### Week2: HW accelerator (ASIC) and GPU acceleration  (February 9, 2020)
 **Title: Cambricon: An instruction set architecture for neural networks**  
-Presentor: 김용우 (guruzoa@gmail.com)
-PPT:   
-Video:   
-Date: 02/09/2020 (Month/Date/Year)
+
+	Presentor: 김용우 (guruzoa@gmail.com)
+	PPT:   
+	Video:   
 
 **Title: Performance analysis of CNN frameworks for GPUs**  
-Presentor: Martin (dhhwang89@gmail.com)
-PPT:   
-Video:   
-Date: 02/09/2020 (Month/Date/Year)
+	Presentor: Martin (dhhwang89@gmail.com)
+	PPT:   
+	Video:   
+
 
 ### Week3: HW accelerator (FPGA) and CPU/GPU acceleration
 **Title: Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
