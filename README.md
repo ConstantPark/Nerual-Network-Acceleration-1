@@ -58,6 +58,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	Video:   
 
 **Title: Performance analysis of CNN frameworks for GPUs**  
+
 	Presentor: Martin (dhhwang89@gmail.com)
 	PPT:   
 	Video:   
