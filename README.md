@@ -103,7 +103,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week6: HW accelerator (FPGA) and CPU/GPU acceleration (March 08, 2020)
+### Week6: CPU/GPU acceleration and NDP (Near-data Processing) (March 08, 2020)
 **µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization**   
 	
 	Presentor: Martin (dhhwang89@gmail.com)  
@@ -116,8 +116,45 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
+### Week7: CPU/GPU acceleration and NDP (Near-data Processing) (March 15, 2020)
+**Zion: Facebook Next-Generation Large-memory Unified Training Platform**   
+	
+	Presentor: DownyK (TeamBehindDowny@gmail.com)
+	PPT:   
+	Video:   
 
+**Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach**    
+	
+	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
+	PPT:   
+	Video:   
 
+### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (March 22, 2020)
+**Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management**   
+	
+	Presentor: 이제민 (leejaymin@cnu.ac.kr)
+	PPT:   
+	Video:   
+
+**AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networksh**    
+	
+	Presentor: 김용우 (guruzoa@gmail.com)  
+	PPT:   
+	Video:   
+
+### Week9: CPU/GPU acceleration and NDP (Near-data Processing) (March 29, 2020)
+**Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
+	
+	Presentor: 전지혜 (itrr0805@snu.ac.kr)
+	PPT:   
+	Video:   
+
+**Cambricon-S: Addressing Irregularity in Sparse Neural Networks through A Cooperative Software/Hardware Approachh**    
+	
+	Presentor: 김석중 (rlatjrwnd242@naver.com)  
+	PPT:   
+	Video:   
+	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)  
 **Presenter**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (itrr0805@snu.ac.kr), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 김석중 (rlatjrwnd242@naver.com)
