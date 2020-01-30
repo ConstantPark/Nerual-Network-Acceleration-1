@@ -42,7 +42,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
    
 ## Presentation with Video
 ### Week1: Introduction of Neural network acceleration (February 02, 2020)
-**Title: Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming**  
+**Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming**  
 
 	Presentor: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT:   
@@ -51,13 +51,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
   
 
 ### Week2: HW accelerator (ASIC) and GPU acceleration  (February 09, 2020)
-**Title: Cambricon: An instruction set architecture for neural networks**  
+**Cambricon: An instruction set architecture for neural networks**  
 
 	Presentor: 김용우 (guruzoa@gmail.com)
 	PPT:   
 	Video:   
 
-**Title: Performance analysis of CNN frameworks for GPUs**  
+**Performance analysis of CNN frameworks for GPUs**  
 
 	Presentor: Martin (dhhwang89@gmail.com)
 	PPT:   
@@ -65,27 +65,27 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 
 ### Week3: HW accelerator (FPGA) and CPU/GPU acceleration (February 16, 2020)
-**Title: Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
+**Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
 
 	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
 	PPT:   
 	Video:   
 
-**Title: Scalpel: Customizing DNN pruning to the underlying hardware parallelism**  
+**Scalpel: Customizing DNN pruning to the underlying hardware parallelism**  
 
 	Presentor: DownyK (dhhwang89@gmail.com)  
 	PPT:   
 	Video:   
 
 ### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (February 23, 2020)
-**Title: MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference**  
+**MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference**  
 	
 	Presentor: 이제민 (rlaxodhksk@snu.ac.kr)  
 	PPT:   
 	Video:   
 
 
-**Title: In-Datacenter Performance Analysis of a Tensor Processing Unit**    
+**In-Datacenter Performance Analysis of a Tensor Processing Unit**    
 	
 	Presentor: Constant Park (sonicstage12@naver.com)
 	PPT:   
@@ -94,13 +94,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 
 ### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 01, 2020)
-**Title: Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
+**Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
 	Presentor: 전지혜 (itrr0805@snu.ac.kr)  
 	PPT:   
 	Video:   
 
-**Title: FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
+**FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
 	
 	Presentor: 김석중 (rlatjrwnd242@naver.com)  
 	PPT:   
@@ -108,13 +108,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 
 ### Week6: HW accelerator (FPGA) and CPU/GPU acceleration (March 08, 2020)
-**Title: Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
+**Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
 	Presentor: 전지혜 (itrr0805@snu.ac.kr)  
 	PPT:   
 	Video:   
 
-**Title: FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
+**FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
 	
 	Presentor: 김석중 (rlatjrwnd242@naver.com)
 	PPT:   
