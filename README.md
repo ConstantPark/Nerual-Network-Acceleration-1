@@ -43,19 +43,10 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ## Presentation with Video
 ### Week1: Introduction of Neural network acceleration (February 2, 2020)
 **Title: Introduction of this study and selection of optimal primitive**
-	1. Cambricon: An instruction set architecture for neural networks, ISCA, 2016.
-	2. In-Datacenter Performance Analysis of a Tensor Processing Unit, ISCA, 2017.
 	Presentor: Constant Park (Sang-Soo Park, http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT:   
 	Video:   
-	
-	
 
-
-Presentor: Constant Park (Sang-Soo Park, http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
-PPT:   
-Video:   
-Date: 02/02/2020 (Month/Date/Year)
 
 ### Week2: HW accelerator (ASIC) and GPU acceleration
 **Title: Cambricon: An instruction set architecture for neural networks**  
