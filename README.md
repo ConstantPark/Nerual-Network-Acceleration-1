@@ -41,7 +41,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
    
 ## Presentation with Video
-### Week1: Introduction of Neural network acceleration (February, 2, 2020)
+### Week1: Introduction of Neural network acceleration (February 2, 2020)
 	### **Title: Introduction of this study and selection of optimal primitive**  
 	Presentor: Constant Park (Sang-Soo Park, http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT:   
