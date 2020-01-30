@@ -42,7 +42,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
    
 ## Presentation with Video
 ### Week1: Introduction of Neural network acceleration (February 2, 2020)
-**Title: Introduction of this study and selection of optimal primitive**  
+**Title: Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming**  
 
 	Presentor: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT:   
