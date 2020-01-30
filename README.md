@@ -75,13 +75,13 @@ Video:
 Date: 02/16/2020 (Month/Date/Year)
 
 ### Week4: HW accelerator (ASIC) and CPU/GPU acceleration
-**Title: MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference** 
+**Title: MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference**  
 Presentor: 이제민 (rlaxodhksk@snu.ac.kr)  
 PPT:   
 Video:   
 Date: 02/23/2020 (Month/Date/Year)
 
-**Title: In-Datacenter Performance Analysis of a Tensor Processing Unit**  
+**Title: In-Datacenter Performance Analysis of a Tensor Processing Unit**    
 Presentor: Constant Park (sonicstage12@naver.com)
 PPT:   
 Video:   
@@ -89,26 +89,26 @@ Date: 02/23/2020 (Month/Date/Year)
 
 
 ### Week5: HW accelerator (FPGA) and CPU/GPU acceleration
-**Title: Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems** 
+**Title: Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 Presentor: 전지혜 (itrr0805@snu.ac.kr)  
 PPT:   
 Video:   
 Date: 01/03/2020 (Month/Date/Year)
 
-**Title: FA3C: FPGA-Accelerated Deep Reinforcement Learning**  
+**Title: FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
 Presentor: 김석중 (rlatjrwnd242@naver.com)  
 PPT:   
 Video:   
 Date: 01/03/2020 (Month/Date/Year)
 
 ### Week6: HW accelerator (FPGA) and CPU/GPU acceleration
-**Title: Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems** 
+**Title: Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 Presentor: 전지혜 (itrr0805@snu.ac.kr)  
 PPT:   
 Video:   
 Date: 01/03/2020 (Month/Date/Year)
 
-**Title: FA3C: FPGA-Accelerated Deep Reinforcement Learning**  
+**Title: FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
 Presentor: 김석중 (rlatjrwnd242@naver.com)
 PPT:   
 Video:   
