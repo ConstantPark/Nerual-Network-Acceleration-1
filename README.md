@@ -78,20 +78,17 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	Video:   
 
 ### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (February 23, 2020)
-**MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference**  
+**MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
 	
 	Presentor: 이제민 (rlaxodhksk@snu.ac.kr)  
 	PPT:   
 	Video:   
-
 
 **In-Datacenter Performance Analysis of a Tensor Processing Unit**    
 	
 	Presentor: Constant Park (sonicstage12@naver.com)
 	PPT:   
 	Video:   
-
-
 
 ### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 01, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
@@ -106,17 +103,16 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-
 ### Week6: HW accelerator (FPGA) and CPU/GPU acceleration (March 08, 2020)
-**Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
+**µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization**   
 	
-	Presentor: 전지혜 (itrr0805@snu.ac.kr)  
+	Presentor: Martin (dhhwang89@gmail.com)  
 	PPT:   
 	Video:   
 
-**FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
+**TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning**    
 	
-	Presentor: 김석중 (rlatjrwnd242@naver.com)
+	Presentor: Constant Park (sonicstage12@naver.com)
 	PPT:   
 	Video:   
 
