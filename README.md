@@ -142,7 +142,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week9: CPU/GPU acceleration and NDP (Near-data Processing) (March 29, 2020)
+### Week9: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
 	Presentor: 전지혜 (itrr0805@snu.ac.kr)
