@@ -39,7 +39,15 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	1. Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach, MICRO, 2018.
 	2. TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning, MICRO, 2019.
 
-
+1. Ordered One
+   * Unordered First
+   * Unordered Second
+   * Unordered Third
+1. Ordered Second
+   * Unordered One
+   * Unordered Two
+   * Unordered Three
+   
 ## Presentation with Video
 ### Week1: Introduction of Neural network acceleration
 **Title: Introduction of this study and selection of optimal primitive**  
