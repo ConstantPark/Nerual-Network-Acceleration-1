@@ -14,7 +14,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 - DIMM and HMC based neural acceleration system
 - Non-HBM based design
 
-## Paper List (20)
+## Paper List (17)
 ### Processor based Acceleration (9)
 	CPU, GPU, and special system based acceleration (Parallel computing, Distribution computing)
 	1. AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks, arxiv, 2019.
@@ -44,16 +44,10 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week1: Introduction of Neural network acceleration (February 2, 2020)
 **Title: Introduction of this study and selection of optimal primitive**  
 
-	CPU, GPU, and special system based acceleration (Parallel computing, Distribution computing)
-	1. AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networks, arxiv, 2019.
-	2. Zion: Facebook Next-Generation Large-memory Unified Training Platform, HotChips, 2019.
-	3. µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization, EuroSys, 2019.
-	4. Scalpel: Customizing DNN pruning to the underlying hardware parallelism, ISCA, 2017.
-	5. MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing and Execution for Accurate and Efficient Inference, PACT, 2019.
-	6. Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming, ACM CGO, 2019.
-	7. Neural Network Inference on Mobile SoCs, Arxiv 2019.
-	8. Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems, DATE, 2019.
-	9. Performance analysis of CNN frameworks for GPUs, ISPASS, 2018.
+	Presentor: Constant Park (Sang-Soo Park, http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
+	PPT:   
+	Video:   
+
   
 
 ### Week2: HW accelerator (ASIC) and GPU acceleration
