@@ -91,9 +91,9 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	Video:   
 
 ### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 01, 2020)
-**Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
+**Neural Network Inference on Mobile SoCs**   
 	
-	Presentor: 전지혜 (itrr0805@snu.ac.kr)  
+	Presentor: 전지혜 (jyeah05@gmail.com)  
 	PPT:   
 	Video:   
 
@@ -145,7 +145,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week9: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
-	Presentor: 전지혜 (itrr0805@snu.ac.kr)
+	Presentor: 전지혜 (jyeah05@gmail.com)
 	PPT:   
 	Video:   
 
@@ -157,5 +157,5 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)  
-**Presenter**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (itrr0805@snu.ac.kr), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 김석중 (rlatjrwnd242@naver.com)
+**Presenter**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (jyeah05@gmail.com), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 김석중 (rlatjrwnd242@naver.com)
 
