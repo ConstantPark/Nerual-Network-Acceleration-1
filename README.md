@@ -50,7 +50,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
   
 
-### Week2: HW accelerator (ASIC) and GPU acceleration  (February 09, 2020)
+### Week2: HW accelerator (ASIC) and GPU acceleration  (February 16, 2020)
 **Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
 
 	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
@@ -64,7 +64,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	Video:   
 
 
-### Week3: HW accelerator (FPGA) and CPU/GPU acceleration (February 16, 2020)
+### Week3: HW accelerator (FPGA) and CPU/GPU acceleration (March 1, 2020)
 **Cambricon: An instruction set architecture for neural networks**  
 
 	Presentor: 김용우 (guruzoa@gmail.com)
@@ -77,7 +77,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (February 23, 2020)
+### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (March 15, 2020)
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
 	
 	Presentor: 이제민 (rlaxodhksk@snu.ac.kr)  
@@ -90,7 +90,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 01, 2020)
+### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 29, 2020)
 **Neural Network Inference on Mobile SoCs**   
 	
 	Presentor: 전지혜 (jyeah05@gmail.com)  
@@ -103,7 +103,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week6: CPU/GPU acceleration and NDP (Near-data Processing) (March 08, 2020)
+### Week6: CPU/GPU acceleration and NDP (Near-data Processing) (April 05, 2020)
 **µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization**   
 	
 	Presentor: Martin (dhhwang89@gmail.com)  
@@ -116,7 +116,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week7: CPU/GPU acceleration and NDP (Near-data Processing) (March 15, 2020)
+### Week7: CPU/GPU acceleration and NDP (Near-data Processing) (April 19, 2020)
 **Zion: Facebook Next-Generation Large-memory Unified Training Platform**   
 	
 	Presentor: DownyK (TeamBehindDowny@gmail.com)
@@ -129,7 +129,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (March 22, 2020)
+### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (MAy 05, 2020)
 **Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management**   
 	
 	Presentor: 이제민 (leejaymin@cnu.ac.kr)
@@ -142,7 +142,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week9: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
+### Week9: HW accelerator (ASIC) and CPU/GPU acceleration (May 17, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
 	Presentor: 전지혜 (jyeah05@gmail.com)
