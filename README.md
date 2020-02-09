@@ -129,7 +129,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (May 05, 2020)
+### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (May 03, 2020)
 **Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management**   
 	
 	Presentor: 이제민 (leejaymin@cnu.ac.kr)
