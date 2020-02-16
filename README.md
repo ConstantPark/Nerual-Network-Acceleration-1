@@ -80,7 +80,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (March 15, 2020)
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
 	
-	Presentor: 이제민 (rlaxodhksk@snu.ac.kr)  
+	Presentor: 이제민 (leejaymin@cnu.ac.kr)  
 	PPT:   
 	Video:   
 
