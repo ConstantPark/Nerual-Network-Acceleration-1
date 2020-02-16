@@ -44,7 +44,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week1: Introduction of Neural network acceleration (February 02, 2020)
 **Optimal DNN Primitive Selection with Partitioned Boolean quadratic Programming**  
 
-	Presentor: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
+	Presenter: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Optimal%20DNN%20Primitive%20Selection%20with%20Partitioned%20Boolean%20Quadratic%20Programming.pdf   
 	Video: https://youtu.be/ZLGLogU5mt0   
 
@@ -53,13 +53,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week2: HW accelerator (ASIC) and GPU acceleration  (February 16, 2020)
 **Optimizing FPGA-based Accelerator Design for Deep Convolutional Neural Networks**  
 
-	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
-	PPT:   
-	Video:   
+	Presenter: 김태완 (rlaxodhksk@snu.ac.kr)  
+	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Optimizing%20FPGA-based%20Accelerator%20Design%20for%20Deep%20Convolutional%20Neural%20Networks%20Chen%20Zhang%20et%20al%20-%20Louis%20tw%20Kim%20Presentation.pdf   
+	Video: https://youtu.be/tgB_o4E9PSw  
 
 **Performance analysis of CNN frameworks for GPUs**  
 
-	Presentor: Martin (dhhwang89@gmail.com)
+	Presenter: Martin (dhhwang89@gmail.com)
 	PPT:   
 	Video:   
 
@@ -67,95 +67,95 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week3: HW accelerator (FPGA) and CPU/GPU acceleration (March 1, 2020)
 **Cambricon: An instruction set architecture for neural networks**  
 
-	Presentor: 김용우 (guruzoa@gmail.com)
+	Presenter: 김용우 (guruzoa@gmail.com)
 	PPT:   
 	Video:   
 	
 **Scalpel: Customizing DNN pruning to the underlying hardware parallelism**  
 
-	Presentor: DownyK (dhhwang89@gmail.com)  
+	Presenter: DownyK (dhhwang89@gmail.com)  
 	PPT:   
 	Video:   
 
 ### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (March 15, 2020)
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
 	
-	Presentor: 이제민 (leejaymin@cnu.ac.kr)  
+	Presenter: 이제민 (leejaymin@cnu.ac.kr)  
 	PPT:   
 	Video:   
 
 **In-Datacenter Performance Analysis of a Tensor Processing Unit**    
 	
-	Presentor: Constant Park (sonicstage12@naver.com)
+	Presenter: Constant Park (sonicstage12@naver.com)
 	PPT:   
 	Video:   
 
 ### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 29, 2020)
 **Neural Network Inference on Mobile SoCs**   
 	
-	Presentor: 전지혜 (jyeah05@gmail.com)  
+	Presenter: 전지혜 (jyeah05@gmail.com)  
 	PPT:   
 	Video:   
 
 **FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
 	
-	Presentor: 김석중 (rlatjrwnd242@naver.com)  
+	Presentoe: 김석중 (rlatjrwnd242@naver.com)  
 	PPT:   
 	Video:   
 
 ### Week6: CPU/GPU acceleration and NDP (Near-data Processing) (April 05, 2020)
 **µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization**   
 	
-	Presentor: Martin (dhhwang89@gmail.com)  
+	Presenter: Martin (dhhwang89@gmail.com)  
 	PPT:   
 	Video:   
 
 **TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning**    
 	
-	Presentor: Constant Park (sonicstage12@naver.com)
+	Presenter: Constant Park (sonicstage12@naver.com)
 	PPT:   
 	Video:   
 
 ### Week7: CPU/GPU acceleration and NDP (Near-data Processing) (April 19, 2020)
 **Zion: Facebook Next-Generation Large-memory Unified Training Platform**   
 	
-	Presentor: DownyK (TeamBehindDowny@gmail.com)
+	Presenter: DownyK (TeamBehindDowny@gmail.com)
 	PPT:   
 	Video:   
 
 **Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach**    
 	
-	Presentor: 김태완 (rlaxodhksk@snu.ac.kr)  
+	Presenter: 김태완 (rlaxodhksk@snu.ac.kr)  
 	PPT:   
 	Video:   
 
 ### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (May 03, 2020)
 **Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management**   
 	
-	Presentor: 이제민 (leejaymin@cnu.ac.kr)
+	Presenter: 이제민 (leejaymin@cnu.ac.kr)
 	PPT:   
 	Video:   
 
 **AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networksh**    
 	
-	Presentor: 김용우 (guruzoa@gmail.com)  
+	Presenter: 김용우 (guruzoa@gmail.com)  
 	PPT:   
 	Video:   
 
 ### Week9: HW accelerator (ASIC) and CPU/GPU acceleration (May 17, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
-	Presentor: 전지혜 (jyeah05@gmail.com)
+	Presenter: 전지혜 (jyeah05@gmail.com)
 	PPT:   
 	Video:   
 
 **Cambricon-S: Addressing Irregularity in Sparse Neural Networks through A Cooperative Software/Hardware Approachh**    
 	
-	Presentor: 김석중 (rlatjrwnd242@naver.com)  
+	Presenter: 김석중 (rlatjrwnd242@naver.com)  
 	PPT:   
 	Video:   
 	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)  
-**Presenter**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (jyeah05@gmail.com), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 김석중 (rlatjrwnd242@naver.com)
+**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (jyeah05@gmail.com), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 김석중 (rlatjrwnd242@naver.com)
 
