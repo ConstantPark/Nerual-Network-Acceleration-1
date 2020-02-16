@@ -46,7 +46,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 	Presentor: Constant Park (http://esoc.hanyang.ac.kr/people/sangsoo_park/index.html)  
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Optimal%20DNN%20Primitive%20Selection%20with%20Partitioned%20Boolean%20Quadratic%20Programming.pdf   
-	Video:   
+	Video: https://youtu.be/ZLGLogU5mt0   
 
   
 
