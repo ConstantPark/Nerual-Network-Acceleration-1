@@ -57,27 +57,33 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Optimizing%20FPGA-based%20Accelerator%20Design%20for%20Deep%20Convolutional%20Neural%20Networks%20Chen%20Zhang%20et%20al%20-%20Louis%20tw%20Kim%20Presentation.pdf   
 	Video: https://youtu.be/tgB_o4E9PSw  
 
+
+### Week3: CPU/GPU acceleration (March 8, 2020)
 **Performance analysis of CNN frameworks for GPUs**  
 
 	Presenter: Martin (dhhwang89@gmail.com)
-	PPT:   
-	Video:   
-
-
-### Week3: HW accelerator (FPGA) and CPU/GPU acceleration (March 1, 2020)
-**Cambricon: An instruction set architecture for neural networks**  
-
-	Presenter: 김용우 (guruzoa@gmail.com)
-	PPT:   
+	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Performance_Analysis_of_CNN_Frameworks_for_GPUs.pdf  
 	Video:   
 	
+**µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization**   
+	
+	Presenter: Martin (dhhwang89@gmail.com)  
+	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/uLayer_%20Low_Latency_On-Device_Inference_Using_Cooperative_Single-Layer_Acceleration_and_Processor-Friendly_Quantization.pdf  
+	Video:   
+
+### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (March 15, 2020)
 **Scalpel: Customizing DNN pruning to the underlying hardware parallelism**  
 
 	Presenter: DownyK (dhhwang89@gmail.com)  
 	PPT:   
 	Video:   
 
-### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (March 15, 2020)
+**Transfer Learning: Smart Home Appliance Project in Eletronics Company**  
+
+	Presenter: Constant Park (sonicstage12@naver.com)  
+
+
+### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 29, 2020)
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
 	
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)  
@@ -90,7 +96,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 29, 2020)
+### Week6: CPU/GPU acceleration and NDP (Near-data Processing) (April 05, 2020)
 **Neural Network Inference on Mobile SoCs**   
 	
 	Presenter: 전지혜 (jyeah05@gmail.com)  
@@ -103,18 +109,19 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week6: CPU/GPU acceleration and NDP (Near-data Processing) (April 05, 2020)
-**µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization**   
-	
-	Presenter: Martin (dhhwang89@gmail.com)  
-	PPT:   
-	Video:   
-
+### Week7: CPU/GPU acceleration and NDP (Near-data Processing) (April 19, 2020)
 **TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning**    
 	
 	Presenter: Constant Park (sonicstage12@naver.com)
 	PPT:   
 	Video:   
+
+**Zion: Facebook Next-Generation Large-memory Unified Training Platform**   
+	
+	Presenter: DownyK (TeamBehindDowny@gmail.com)
+	PPT:   
+	Video:   
+
 
 ### Week7: CPU/GPU acceleration and NDP (Near-data Processing) (April 19, 2020)
 **Zion: Facebook Next-Generation Large-memory Unified Training Platform**   
@@ -123,26 +130,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-**Processing-in-Memory for Energy-efficient Neural Network Training: A Heterogeneous Approach**    
-	
-	Presenter: 김태완 (rlaxodhksk@snu.ac.kr)  
-	PPT:   
-	Video:   
-
-### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (May 03, 2020)
 **Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management**   
 	
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)
 	PPT:   
-	Video:   
+	Video:  
 
-**AccUDNN: A GPU Memory Efficient Accelerator for Training Ultra-deep Neural Networksh**    
-	
-	Presenter: 김용우 (guruzoa@gmail.com)  
-	PPT:   
-	Video:   
-
-### Week9: HW accelerator (ASIC) and CPU/GPU acceleration (May 17, 2020)
+### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (May 03, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
 	Presenter: 전지혜 (jyeah05@gmail.com)
