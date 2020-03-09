@@ -71,19 +71,19 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/uLayer_%20Low_Latency_On-Device_Inference_Using_Cooperative_Single-Layer_Acceleration_and_Processor-Friendly_Quantization.pdf  
 	Video:   
 
-### Week4: HW accelerator (ASIC) and CPU/GPU acceleration (March 15, 2020)
+### Week4: CPU/GPU acceleration and Transfer Learning (March 15, 2020)
 **Scalpel: Customizing DNN pruning to the underlying hardware parallelism**  
 
 	Presenter: DownyK (dhhwang89@gmail.com)  
 	PPT:   
 	Video:   
 
-**Transfer Learning: Smart Home Appliance Project in Eletronics Company**  
+**Transfer Learning: How home appliance get more smarter**  
 
 	Presenter: Constant Park (sonicstage12@naver.com)  
 
 
-### Week5: HW accelerator (FPGA) and CPU/GPU acceleration (March 29, 2020)
+### Week5: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
 	
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)  
@@ -96,7 +96,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week6: CPU/GPU acceleration and NDP (Near-data Processing) (April 05, 2020)
+### Week6: CPU/GPU acceleration and HW accelerator (FPGA) (April 05, 2020)
 **Neural Network Inference on Mobile SoCs**   
 	
 	Presenter: 전지혜 (jyeah05@gmail.com)  
@@ -109,7 +109,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT:   
 	Video:   
 
-### Week7: CPU/GPU acceleration and NDP (Near-data Processing) (April 19, 2020)
+### Week7: NDP (Near-data Processing) and CPU/GPU acceleration (April 19, 2020)
 **TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning**    
 	
 	Presenter: Constant Park (sonicstage12@naver.com)
@@ -123,20 +123,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	Video:   
 
 
-### Week7: CPU/GPU acceleration and NDP (Near-data Processing) (April 19, 2020)
-**Zion: Facebook Next-Generation Large-memory Unified Training Platform**   
-	
-	Presenter: DownyK (TeamBehindDowny@gmail.com)
-	PPT:   
-	Video:   
-
+### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (May 03, 2020)
 **Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management**   
 	
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)
 	PPT:   
 	Video:  
 
-### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (May 03, 2020)
 **Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
 	
 	Presenter: 전지혜 (jyeah05@gmail.com)
@@ -151,5 +144,6 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)  
-**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (jyeah05@gmail.com), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 김석중 (rlatjrwnd242@naver.com)
+**Presenters**: Constanr Park (sonicstage12@naver.com), 이제민 (leejaymin@cnu.ac.kr), 김태완 (rlaxodhksk@snu.ac.kr), DownyK (TeamBehindDowny@gmail.com), 전지혜 (jyeah05@gmail.com), Martin (dhhwang89@gmail.com), 김용우 (guruzoa@gmail.com), 
+(rlatjrwnd242@naver.com)
 
