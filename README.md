@@ -63,25 +63,26 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 	Presenter: Martin (dhhwang89@gmail.com)
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Performance_Analysis_of_CNN_Frameworks_for_GPUs.pdf  
-	Video:   
+	Video: https://youtu.be/6LIalb6nEqE    
 	
 **µLayer:Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization**   
 	
 	Presenter: Martin (dhhwang89@gmail.com)  
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/uLayer_%20Low_Latency_On-Device_Inference_Using_Cooperative_Single-Layer_Acceleration_and_Processor-Friendly_Quantization.pdf  
-	Video:   
+	Video: https://youtu.be/ofHqG2z-X4Q   
 
-### Week4: CPU/GPU acceleration and Transfer Learning (March 15, 2020)
+### Week4: CPU/GPU acceleration and Systolic Accelerator (March 15, 2020)
 **Scalpel: Customizing DNN pruning to the underlying hardware parallelism**  
 
 	Presenter: DownyK (dhhwang89@gmail.com)  
-	PPT:   
-	Video:   
+	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Scalpel_Customizing%20DNN%20pruning%20to%20the%20underlying%20hardware%20parallelism%2C.pdf   
+	Video: 
 
-**Transfer Learning: How home appliance get more smarter**  
+**Gemmini: An Agile Systolic Array Generator Enabling Systematic Evaluations of Deep-Learning Architecturesr**  
 
 	Presenter: Constant Park (sonicstage12@naver.com)  
-
+	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Gemmini-%20An%20Agile%20Systolic%20Array%20Generator%20Enabling%20Systematic%20Evaluations%20of%20Deep-Learning%20Architectures.pdf
+	Video: 
 
 ### Week5: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
