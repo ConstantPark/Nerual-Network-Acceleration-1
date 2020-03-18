@@ -74,7 +74,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 ### Week4: CPU/GPU acceleration and Systolic Accelerator (March 15, 2020)
 **Scalpel: Customizing DNN pruning to the underlying hardware parallelism**  
 
-	Presenter: DownyK (dhhwang89@gmail.com)  
+	Presenter: DownyK (TeamBehindDowny@gmail.com)  
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Scalpel_Customizing%20DNN%20pruning%20to%20the%20underlying%20hardware%20parallelism%2C.pdf   
 	Video: 
 
