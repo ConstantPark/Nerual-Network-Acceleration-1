@@ -76,13 +76,13 @@ This is a repository of the study "neural network acceleration". The goal of thi
 
 	Presenter: DownyK (TeamBehindDowny@gmail.com)  
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Scalpel_Customizing%20DNN%20pruning%20to%20the%20underlying%20hardware%20parallelism%2C.pdf   
-	Video: 
+	Video: https://youtu.be/z0Jy8vhZT38 
 
 **Gemmini: An Agile Systolic Array Generator Enabling Systematic Evaluations of Deep-Learning Architecturesr**  
 
 	Presenter: Constant Park (sonicstage12@naver.com)  
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Gemmini-%20An%20Agile%20Systolic%20Array%20Generator%20Enabling%20Systematic%20Evaluations%20of%20Deep-Learning%20Architectures.pdf
-	Video: 
+	Video: https://youtu.be/nqDLiLjySLE
 
 ### Week5: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
