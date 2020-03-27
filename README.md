@@ -1,4 +1,4 @@
-## Neural Network Acceleration Study
+## Neural Network Acceleration Study Season #1
 This is a repository of the study "neural network acceleration". The goal of this study is to understand the acceleration of nerual networks on various devices. The topic of acceleration includes `CPU`,`GPU`, `FPGA`, `ASIC` , `NPU` and `PIM`. Our materials are open to this github and youtube.
 
 #### CPU/GPU and NPU
