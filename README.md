@@ -84,7 +84,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration/blob/master/Gemmini-%20An%20Agile%20Systolic%20Array%20Generator%20Enabling%20Systematic%20Evaluations%20of%20Deep-Learning%20Architectures.pdf
 	Video: https://youtu.be/nqDLiLjySLE
 
-### Week5: HW accelerator (ASIC) and CPU/GPU acceleration (March 29, 2020)
+### Week5: HW accelerator (ASIC) and CPU/GPU acceleration (April 04, 2020)
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
 	
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)  
