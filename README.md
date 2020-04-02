@@ -94,54 +94,9 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **In-Datacenter Performance Analysis of a Tensor Processing Unit**    
 	
 	Presenter: Constant Park (sonicstage12@naver.com)
-	PPT:   
+	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration-1/blob/master/In%20Datacenter%20Performance%20Analysis%20of%20a%20Tensor%20Processing%20Unit.pdf   
 	Video:   
 
-### Week6: CPU/GPU acceleration and HW accelerator (FPGA) (April 05, 2020)
-**Neural Network Inference on Mobile SoCs**   
-	
-	Presenter: 전지혜 (jyeah05@gmail.com)  
-	PPT:   
-	Video:   
-
-**FA3C: FPGA-Accelerated Deep Reinforcement Learning**    
-	
-	Presentoe: 김석중 (rlatjrwnd242@naver.com)  
-	PPT:   
-	Video:   
-
-### Week7: NDP (Near-data Processing) and CPU/GPU acceleration (April 19, 2020)
-**TensorDIMM: A Practical Near-Memory Processing Architecture for Embeddings and Tensor Operations in Deep Learning**    
-	
-	Presenter: Constant Park (sonicstage12@naver.com)
-	PPT:   
-	Video:   
-
-**Zion: Facebook Next-Generation Large-memory Unified Training Platform**   
-	
-	Presenter: DownyK (TeamBehindDowny@gmail.com)
-	PPT:   
-	Video:   
-
-
-### Week8: HW accelerator (FPGA) and CPU/GPU acceleration (May 03, 2020)
-**Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management**   
-	
-	Presenter: 이제민 (leejaymin@cnu.ac.kr)
-	PPT:   
-	Video:  
-
-**Learning to infer: RL-based search for DNN primitive selection on Heterogeneous Embedded Systems**   
-	
-	Presenter: 전지혜 (jyeah05@gmail.com)
-	PPT:   
-	Video:   
-
-**Cambricon-S: Addressing Irregularity in Sparse Neural Networks through A Cooperative Software/Hardware Approachh**    
-	
-	Presenter: 김석중 (rlatjrwnd242@naver.com)  
-	PPT:   
-	Video:   
 	
 ## Contributors
 **Main Contributor**: Constant Park (sonicstage12@naver.com)  
