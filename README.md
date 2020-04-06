@@ -88,14 +88,14 @@ This is a repository of the study "neural network acceleration". The goal of thi
 **MOSAIC: Heterogeneity-, Communication-, and Constraint-Aware Model Slicing ~ Efficient Inference**  
 	
 	Presenter: 이제민 (leejaymin@cnu.ac.kr)  
-	PPT:   
-	Video:   
+	PPT: https://www.slideshare.net/leejaymin/pact19-mosaic-heterogeneity-communication-and-constraintaware-model-slicing-and-execution-for-accurate-and-efficient-inference   
+	Video: https://youtu.be/XlepT1cTLPg
 
 **In-Datacenter Performance Analysis of a Tensor Processing Unit**    
 	
 	Presenter: Constant Park (sonicstage12@naver.com)
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration-1/blob/master/TPU-%20In-Datacenter%20Performance%20Analysis%20of%20a%20Tensor%20Processing%20Unit.pdf
-	Video:   
+	Video: 
 
 	
 ## Contributors
