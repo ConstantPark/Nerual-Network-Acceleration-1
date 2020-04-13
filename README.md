@@ -95,7 +95,7 @@ This is a repository of the study "neural network acceleration". The goal of thi
 	
 	Presenter: Constant Park (sonicstage12@naver.com)
 	PPT: https://github.com/ConstantPark/Nerual-Network-Acceleration-1/blob/master/TPU-%20In-Datacenter%20Performance%20Analysis%20of%20a%20Tensor%20Processing%20Unit.pdf
-	Video: 
+	Video: https://youtu.be/o1Ndeip-JeQ
 
 	
 ## Contributors
